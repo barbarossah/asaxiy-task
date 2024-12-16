@@ -12,6 +12,8 @@
   --grey400: rgb(147, 158, 164);
   --grey600: rgb(93, 105, 112);
   --iconsGrey: rgb(176, 184, 188);
+  --footerBackground: rgb(231, 236, 255);
+  --footerInnerBorder: rgb(205, 209, 212);
 }
 
 * {
@@ -23,10 +25,9 @@
 
 body,
 html {
-  max-width: 1440px;
+  max-width: 1860px;
   margin: 0 auto;
   scroll-behavior: smooth;
-  /* overflow: hidden; */
 }
 
 a {

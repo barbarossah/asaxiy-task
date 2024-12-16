@@ -12,17 +12,17 @@ function SiteHeader(props) {
           <nav className="site-header__nav">
             <ul className="site-header__list">
               <li className="site-header__list-item">
-                <a className="site-header__nav-link" href="#">
+                <a className="site-header__nav-link" href="#home">
                   Home
                 </a>
               </li>
               <li className="site-header__list-item">
-                <a className="site-header__nav-link" href="#">
+                <a className="site-header__nav-link" href="#about">
                   About
                 </a>
               </li>
               <li className="site-header__list-item">
-                <a className="site-header__nav-link" href="#">
+                <a className="site-header__nav-link" href="#contact">
                   Contact
                 </a>
               </li>
